@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # NOTE percy kharoly william we going to decompress files in the root folder and ignore these dirs
-data/
+data/tpch/
+data/smiles/
